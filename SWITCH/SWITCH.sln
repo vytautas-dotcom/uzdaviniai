@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "antrasV", "antrasV\antrasV.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treciasV", "treciasV\treciasV.csproj", "{9916E554-6120-4C03-9657-6C1A64B59713}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pirmasA", "pirmasA\pirmasA.csproj", "{5D983F27-9B11-401F-81B4-9A3769206BD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9916E554-6120-4C03-9657-6C1A64B59713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9916E554-6120-4C03-9657-6C1A64B59713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9916E554-6120-4C03-9657-6C1A64B59713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D983F27-9B11-401F-81B4-9A3769206BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D983F27-9B11-401F-81B4-9A3769206BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D983F27-9B11-401F-81B4-9A3769206BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D983F27-9B11-401F-81B4-9A3769206BD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

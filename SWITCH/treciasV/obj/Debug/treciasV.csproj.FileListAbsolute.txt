@@ -4,3 +4,10 @@ C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\bin\Debug\treciasV.p
 C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\obj\Debug\treciasV.csproj.CoreCompileInputs.cache
 C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\obj\Debug\treciasV.exe
 C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\obj\Debug\treciasV.pdb
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\treciasV\bin\Debug\treciasV.exe.config
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\treciasV\bin\Debug\treciasV.exe
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\treciasV\bin\Debug\treciasV.pdb
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\treciasV\obj\Debug\treciasV.csprojAssemblyReference.cache
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\treciasV\obj\Debug\treciasV.csproj.CoreCompileInputs.cache
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\treciasV\obj\Debug\treciasV.exe
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\treciasV\obj\Debug\treciasV.pdb

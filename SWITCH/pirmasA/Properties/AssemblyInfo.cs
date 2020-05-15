@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("pirmasAA")]
+[assembly: AssemblyTitle("pirmasA")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("pirmasAA")]
+[assembly: AssemblyProduct("pirmasA")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("353d6c91-20e0-4856-8618-31c5e090ef14")]
+[assembly: Guid("5d983f27-9b11-401f-81b4-9a3769206bd3")]
 
 // Version information for an assembly consists of the following four values:
 //

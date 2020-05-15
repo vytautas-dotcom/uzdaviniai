@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pirmasAA
+namespace pirmasA
 {
     class Program
     {
@@ -65,7 +65,7 @@ namespace pirmasAA
                 case ConsoleKey.D1:
                     Console.WriteLine();
                     Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.BackgroundColor = ConsoleColor.Red;                    
+                    Console.BackgroundColor = ConsoleColor.Red;
                     Console.WriteLine($"   {vardas}   ");
                     Console.ResetColor();
                     break;
@@ -79,7 +79,7 @@ namespace pirmasAA
                 case ConsoleKey.D3:
                     Console.WriteLine();
                     Console.ForegroundColor = ConsoleColor.DarkMagenta;
-                    Console.BackgroundColor = ConsoleColor.Blue;                    
+                    Console.BackgroundColor = ConsoleColor.Blue;
                     Console.WriteLine($"   {vardas}   ");
                     Console.ResetColor();
                     break;

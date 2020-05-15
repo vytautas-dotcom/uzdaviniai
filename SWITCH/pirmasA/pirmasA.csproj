@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{353D6C91-20E0-4856-8618-31C5E090EF14}</ProjectGuid>
+    <ProjectGuid>{5D983F27-9B11-401F-81B4-9A3769206BD3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>pirmasAA</RootNamespace>
-    <AssemblyName>pirmasAA</AssemblyName>
+    <RootNamespace>pirmasA</RootNamespace>
+    <AssemblyName>pirmasA</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
