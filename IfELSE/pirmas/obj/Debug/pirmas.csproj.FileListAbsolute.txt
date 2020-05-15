@@ -4,3 +4,10 @@ C:\Users\tumas\source\repos\egzui\IfELSE\pirmas\bin\Debug\pirmas.pdb
 C:\Users\tumas\source\repos\egzui\IfELSE\pirmas\obj\Debug\pirmas.csproj.CoreCompileInputs.cache
 C:\Users\tumas\source\repos\egzui\IfELSE\pirmas\obj\Debug\pirmas.exe
 C:\Users\tumas\source\repos\egzui\IfELSE\pirmas\obj\Debug\pirmas.pdb
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\pirmas\bin\Debug\pirmas.exe.config
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\pirmas\bin\Debug\pirmas.exe
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\pirmas\bin\Debug\pirmas.pdb
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\pirmas\obj\Debug\pirmas.csprojAssemblyReference.cache
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\pirmas\obj\Debug\pirmas.csproj.CoreCompileInputs.cache
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\pirmas\obj\Debug\pirmas.exe
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\pirmas\obj\Debug\pirmas.pdb

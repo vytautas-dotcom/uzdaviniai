@@ -4,3 +4,9 @@ C:\Users\tumas\source\repos\egzui\IfELSE\penktas\bin\Debug\penktas.pdb
 C:\Users\tumas\source\repos\egzui\IfELSE\penktas\obj\Debug\penktas.csproj.CoreCompileInputs.cache
 C:\Users\tumas\source\repos\egzui\IfELSE\penktas\obj\Debug\penktas.exe
 C:\Users\tumas\source\repos\egzui\IfELSE\penktas\obj\Debug\penktas.pdb
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\penktas\bin\Debug\penktas.exe.config
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\penktas\bin\Debug\penktas.exe
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\penktas\bin\Debug\penktas.pdb
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\penktas\obj\Debug\penktas.csproj.CoreCompileInputs.cache
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\penktas\obj\Debug\penktas.exe
+D:\GIT Repo\Work\Uzdaviniai NETpagrinduEgzui\IfELSE\penktas\obj\Debug\penktas.pdb
