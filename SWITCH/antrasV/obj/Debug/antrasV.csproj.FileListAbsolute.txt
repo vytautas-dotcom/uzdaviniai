@@ -1,0 +1,7 @@
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\antrasV\bin\Debug\antrasV.exe.config
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\antrasV\bin\Debug\antrasV.exe
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\antrasV\bin\Debug\antrasV.pdb
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\antrasV\obj\Debug\antrasV.csprojAssemblyReference.cache
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\antrasV\obj\Debug\antrasV.csproj.CoreCompileInputs.cache
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\antrasV\obj\Debug\antrasV.exe
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\antrasV\obj\Debug\antrasV.pdb
