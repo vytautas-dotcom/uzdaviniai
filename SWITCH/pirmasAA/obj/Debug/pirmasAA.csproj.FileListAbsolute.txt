@@ -1,0 +1,6 @@
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\pirmasAA\bin\Debug\pirmasAA.exe.config
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\pirmasAA\bin\Debug\pirmasAA.exe
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\pirmasAA\bin\Debug\pirmasAA.pdb
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\pirmasAA\obj\Debug\pirmasAA.csproj.CoreCompileInputs.cache
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\pirmasAA\obj\Debug\pirmasAA.exe
+D:\GIT Repo\Work\vytautas-dotcom\uzdaviniai\SWITCH\pirmasAA\obj\Debug\pirmasAA.pdb
