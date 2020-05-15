@@ -1,0 +1,7 @@
+C:\Users\tumas\source\repos\egzui\METODAI\pirmas\bin\Debug\pirmas.exe.config
+C:\Users\tumas\source\repos\egzui\METODAI\pirmas\bin\Debug\pirmas.exe
+C:\Users\tumas\source\repos\egzui\METODAI\pirmas\bin\Debug\pirmas.pdb
+C:\Users\tumas\source\repos\egzui\METODAI\pirmas\obj\Debug\pirmas.csprojAssemblyReference.cache
+C:\Users\tumas\source\repos\egzui\METODAI\pirmas\obj\Debug\pirmas.csproj.CoreCompileInputs.cache
+C:\Users\tumas\source\repos\egzui\METODAI\pirmas\obj\Debug\pirmas.exe
+C:\Users\tumas\source\repos\egzui\METODAI\pirmas\obj\Debug\pirmas.pdb

@@ -1,0 +1,7 @@
+C:\Users\tumas\source\repos\egzui\IfELSE\sestas\bin\Debug\sestas.exe.config
+C:\Users\tumas\source\repos\egzui\IfELSE\sestas\bin\Debug\sestas.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\sestas\bin\Debug\sestas.pdb
+C:\Users\tumas\source\repos\egzui\IfELSE\sestas\obj\Debug\sestas.csprojAssemblyReference.cache
+C:\Users\tumas\source\repos\egzui\IfELSE\sestas\obj\Debug\sestas.csproj.CoreCompileInputs.cache
+C:\Users\tumas\source\repos\egzui\IfELSE\sestas\obj\Debug\sestas.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\sestas\obj\Debug\sestas.pdb

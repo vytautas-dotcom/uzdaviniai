@@ -1,0 +1,7 @@
+C:\Users\tumas\source\repos\egzui\IfELSE\trecias\bin\Debug\trecias.exe.config
+C:\Users\tumas\source\repos\egzui\IfELSE\trecias\bin\Debug\trecias.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\trecias\bin\Debug\trecias.pdb
+C:\Users\tumas\source\repos\egzui\IfELSE\trecias\obj\Debug\trecias.csprojAssemblyReference.cache
+C:\Users\tumas\source\repos\egzui\IfELSE\trecias\obj\Debug\trecias.csproj.CoreCompileInputs.cache
+C:\Users\tumas\source\repos\egzui\IfELSE\trecias\obj\Debug\trecias.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\trecias\obj\Debug\trecias.pdb

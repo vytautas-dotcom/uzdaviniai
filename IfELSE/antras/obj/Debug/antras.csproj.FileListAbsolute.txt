@@ -1,0 +1,6 @@
+C:\Users\tumas\source\repos\egzui\IfELSE\antras\bin\Debug\antras.exe.config
+C:\Users\tumas\source\repos\egzui\IfELSE\antras\bin\Debug\antras.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\antras\bin\Debug\antras.pdb
+C:\Users\tumas\source\repos\egzui\IfELSE\antras\obj\Debug\antras.csproj.CoreCompileInputs.cache
+C:\Users\tumas\source\repos\egzui\IfELSE\antras\obj\Debug\antras.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\antras\obj\Debug\antras.pdb

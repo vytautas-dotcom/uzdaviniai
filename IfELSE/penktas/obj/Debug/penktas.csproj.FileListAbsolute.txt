@@ -1,0 +1,6 @@
+C:\Users\tumas\source\repos\egzui\IfELSE\penktas\bin\Debug\penktas.exe.config
+C:\Users\tumas\source\repos\egzui\IfELSE\penktas\bin\Debug\penktas.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\penktas\bin\Debug\penktas.pdb
+C:\Users\tumas\source\repos\egzui\IfELSE\penktas\obj\Debug\penktas.csproj.CoreCompileInputs.cache
+C:\Users\tumas\source\repos\egzui\IfELSE\penktas\obj\Debug\penktas.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\penktas\obj\Debug\penktas.pdb

@@ -1,0 +1,7 @@
+C:\Users\tumas\source\repos\egzui\IfELSE\ketvirtas\bin\Debug\ketvirtas.exe.config
+C:\Users\tumas\source\repos\egzui\IfELSE\ketvirtas\bin\Debug\ketvirtas.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\ketvirtas\bin\Debug\ketvirtas.pdb
+C:\Users\tumas\source\repos\egzui\IfELSE\ketvirtas\obj\Debug\ketvirtas.csprojAssemblyReference.cache
+C:\Users\tumas\source\repos\egzui\IfELSE\ketvirtas\obj\Debug\ketvirtas.csproj.CoreCompileInputs.cache
+C:\Users\tumas\source\repos\egzui\IfELSE\ketvirtas\obj\Debug\ketvirtas.exe
+C:\Users\tumas\source\repos\egzui\IfELSE\ketvirtas\obj\Debug\ketvirtas.pdb
