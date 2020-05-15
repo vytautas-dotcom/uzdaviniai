@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pirmas", "pirmas\pirmas.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "antrasV", "antrasV\antrasV.csproj", "{AA7697EA-274E-4E8E-9EC8-19153411AD45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treciasV", "treciasV\treciasV.csproj", "{9916E554-6120-4C03-9657-6C1A64B59713}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AA7697EA-274E-4E8E-9EC8-19153411AD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA7697EA-274E-4E8E-9EC8-19153411AD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA7697EA-274E-4E8E-9EC8-19153411AD45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9916E554-6120-4C03-9657-6C1A64B59713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9916E554-6120-4C03-9657-6C1A64B59713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9916E554-6120-4C03-9657-6C1A64B59713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9916E554-6120-4C03-9657-6C1A64B59713}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

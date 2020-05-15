@@ -1,0 +1,6 @@
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\bin\Debug\treciasV.exe.config
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\bin\Debug\treciasV.exe
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\bin\Debug\treciasV.pdb
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\obj\Debug\treciasV.csproj.CoreCompileInputs.cache
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\obj\Debug\treciasV.exe
+C:\Users\tumas\source\repos\UzdaviniaiEgzui\SWITCH\treciasV\obj\Debug\treciasV.pdb
