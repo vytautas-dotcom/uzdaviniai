@@ -6,49 +6,46 @@ using System.Threading.Tasks;
 
 namespace treciasV
 {
-    struct Studentas
-    {
-        static int count = 0;
-        string[] Vardas;
-        string[] Pavarde;
-        int[] Pazymys;
-
-        string vardas;
-        string pavarde;
-        int pazymys;
-        
-
-        public void setStudentas(string vardas, string pavarde, int pazymys)
-        {
-            this.vardas = vardas;
-            this.pavarde = pavarde;
-            this.pazymys = pazymys;
-
-            saveStudentas(vardas, pavarde, pazymys, count);
-            count++;
-        }
-        public void saveStudentas(string a, string b, int c, int d)
-        {
-            this.Vardas[d] = a;
-            this.Pavarde[d] = b;
-            this.Pazymys[d] = c;
-        }
-        public void getStudentas(int studentoNr)
-        {
-            Console.WriteLine($"Vardas: {Vardas[studentoNr]}, Pavarde: {Pavarde[studentoNr]}, Pazymys: {Pazymys[studentoNr]}");  
-        }
-
-    }
+    
     class Program
     {
+        struct Studentai
+        {
+            public string Vardas;
+            public string Pavarde;
+            public int Pazymys;
+        }
+        
         static void Main(string[] args)
         {
-            Studentas studentas = new Studentas();
-            studentas.setStudentas("Jonas", "Jonaitis", 10);
-            studentas.setStudentas("Petras", "Petraitis", 10);
-            studentas.setStudentas("Antanas", "Antanaitis", 10);
+            Console.WriteLine("Iveskite skaiciu, kiek is viso yra studentu");
+            int viso = Int32.Parse(Console.ReadLine());
+            Console.Write("\n\nVeskite studentu duomenis :\n");
+            Console.Write("---------------------------------------------\n");
+            Studentai[] stud = new Studentai[viso];
 
-            studentas.getStudentas(3);
+            for (int i = 0; i < viso; i++)
+            {
+                Console.WriteLine($"-----Studentas nr. {i+1}-----");
+                Console.Write("Studento vardas : ");
+                string vard = Console.ReadLine();
+                stud[i].Vardas = vard;
+
+                Console.Write("Studento pavarde : ");
+                string pav = Console.ReadLine();
+                stud[i].Pavarde = pav;
+
+                Console.Write("Pazymys : ");
+                int paz = Convert.ToInt32(Console.ReadLine());
+                stud[i].Pazymys = paz;
+            }
+            Console.Write("---------------------------------------------\n");
+            Console.WriteLine("Duomenys apie studentus issaugoti:");
+
+            for (int i = 0; i < stud.Length; i++)
+            {
+                Console.WriteLine($"Vardas: {stud[i].Vardas}, Pavarde: {stud[i].Pavarde}, Pazymys: {stud[i].Pazymys}");
+            }
 
             Console.ReadKey();
 
