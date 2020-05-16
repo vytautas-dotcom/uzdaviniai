@@ -57,7 +57,6 @@ namespace penktasV
             string gimimoData = $"{vart.Date.Day}/{vart.Date.Month}/{vart.Date.Year}";
 
             DateTime oDate = Convert.ToDateTime(gimimoData);
-
             
             Console.WriteLine($"{vart.Vardas}, jusu gimtadienis buvo {Enum.GetName(typeof(savaitesDienos), (int)oDate.DayOfWeek)}");
 
