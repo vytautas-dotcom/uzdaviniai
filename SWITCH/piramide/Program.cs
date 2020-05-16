@@ -29,7 +29,7 @@ namespace piramide
                         Console.WriteLine();
                     }
                     Console.WriteLine();
-                    
+
                     // Didejantis atvirksciai su tusciom vietom
                     for (int i = 0; i < height; i++)
                     {
@@ -49,13 +49,20 @@ namespace piramide
                     // Pilnas trikampis
                     for (int i = 0; i < height; i++)
                     {
-                        for (int j = height - 1; j > i; j--)                        
+                        for (int j = height - 1; j > i; j--)
                         {
-                            Console.Write(" ");
+                            Console.Write("-");
                         }
                         for (int j = 0; j <= 2 * i; j++)
                         {
-                            Console.Write("*");
+                            if (j % 2 != 0)
+                            {
+                                Console.Write("-");
+                            }
+                            else if (j % 2 == 0)
+                            {
+                                Console.Write("*");
+                            }
                         }
                         Console.WriteLine();
                     }
