@@ -11,8 +11,8 @@ namespace treciasVtrikampis
     {
         static void Main(string[] args)
         {
-            
-            Programa7();
+
+            Programa8();
 
             //Console.WriteLine("Iveskite eile");
             //Programa4(Int32.Parse(Console.ReadLine()));
@@ -235,17 +235,16 @@ namespace treciasVtrikampis
 
         static void Programa7()
         {
-            Console.Clear();
             Console.WriteLine("Iveskite skaiciu, kurio daugybos lentele norite gauti");
+
             
-            string a = null;
             while (true)
             {
-                int skaicius = Int32.Parse(Console.ReadLine());
-
+                string a = null;
+                int n = Int32.Parse(Console.ReadLine());
                 for (int i = 0; i <= 10; i++)
                 {
-                    Console.WriteLine($"{skaicius} * {i} = {skaicius * i}");
+                    Console.WriteLine($"{n} * {i} = {n * i}");
                 }
                 Console.WriteLine("Ar norite baigti, jei taip iveskite y, jeigu ne tada iveskite n");
                 a = Console.ReadLine();
@@ -254,14 +253,89 @@ namespace treciasVtrikampis
                     break;
                 }
                 else if (a == "n")
-                {
                     continue;
+            }
+            
+        }
+        static void Programa8()
+        {
+            ConsoleKeyInfo status;
+
+            while (true)
+            {
+                Console.WriteLine("Iveskite du skaicius ir operacijos zenkla");
+                int a = Int32.Parse(Console.ReadLine());
+                int b = Int32.Parse(Console.ReadLine());
+                string zenklas = Console.ReadLine();
+
+                switch (zenklas)
+                {
+                    case "+":
+                        Console.WriteLine(a + b);
+                        break;
+                    case "-":
+                        Console.WriteLine(a - b);
+                        break;
+                    case "*":
+                        Console.WriteLine(a * b);
+                        break;
+                    case "/":
+                        Console.WriteLine((double)(a / b));
+                        break;
+                    default:
+                        Console.WriteLine("Kazkas ne taip");
+                        break;
                 }
+                Console.WriteLine("\n\n Norite iseiti? Jei taip, spauskite: (Y/y). Jei ne - (N/n)");
+                status = Console.ReadKey();
+                if (status.Key == ConsoleKey.Y)
+                {
+                    break;
+                }
+                //else if (status.Key == ConsoleKey.N)
+                //    continue;
+                Console.Clear();
+            }
+            
+        }
+        static void Ciklas1()
+        {
+            DateTime now = DateTime.Now;
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(now);
+            }  
+        }
+        static void Ciklas2()
+        {
+            DateTime now = DateTime.Now;
+            object[] arr = {now,now,now};
+
+            foreach (var item in arr)
+            {
+                Console.WriteLine(item);
             }
         }
-        static void Programa8(int a, int b)
+        static void Ciklas3()
         {
+            DateTime now = DateTime.Now;
+            int i = 0;
+            while (i != 3)
+            {
+                Console.WriteLine(now);
+                i++;
+            }  
+        }
+        static void Ciklas4()
+        {
+            DateTime now = DateTime.Now;
+            int i = 0;
 
+            do
+            {
+                Console.WriteLine(now);
+                i++;
+            } while (i != 3);
         }
     }
 }
