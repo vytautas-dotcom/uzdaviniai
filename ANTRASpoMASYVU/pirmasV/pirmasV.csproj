@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Developer.cs" />
     <Compile Include="Employee.cs" />
+    <Compile Include="Employee1.cs" />
     <Compile Include="Manager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

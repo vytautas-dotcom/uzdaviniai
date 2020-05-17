@@ -18,6 +18,10 @@ namespace pirmasV
             this.pavarde = pavarde;
             this.id = id;
         }
+        
+
         public abstract void DoWork();
+
+        
     }
 }
