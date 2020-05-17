@@ -31,7 +31,7 @@ namespace pirmasV
             Console.WriteLine("Skaiciai\t\t\tKvadratai");
             for (int i = 0; i < arr.Length; i++)
             {
-                Console.WriteLine($"{arr[i]}\t{brr[i]}");
+                Console.WriteLine($"{arr[i]}\t\t\t\t{brr[i]}");
             }
         }
     }
