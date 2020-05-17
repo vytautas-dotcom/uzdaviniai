@@ -235,15 +235,17 @@ namespace treciasVtrikampis
 
         static void Programa7()
         {
+            Console.Clear();
             Console.WriteLine("Iveskite skaiciu, kurio daugybos lentele norite gauti");
-
+            
             string a = null;
             while (true)
             {
-                int n = Int32.Parse(Console.ReadLine());
+                int skaicius = Int32.Parse(Console.ReadLine());
+
                 for (int i = 0; i <= 10; i++)
                 {
-                    Console.WriteLine($"{n} * {i} = {n * i}");
+                    Console.WriteLine($"{skaicius} * {i} = {skaicius * i}");
                 }
                 Console.WriteLine("Ar norite baigti, jei taip iveskite y, jeigu ne tada iveskite n");
                 a = Console.ReadLine();
@@ -252,9 +254,10 @@ namespace treciasVtrikampis
                     break;
                 }
                 else if (a == "n")
+                {
                     continue;
+                }
             }
-            
         }
         static void Programa8(int a, int b)
         {
