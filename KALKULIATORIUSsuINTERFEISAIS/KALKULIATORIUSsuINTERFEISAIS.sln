@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalkuliuoklis", "kalkuliuoklis\kalkuliuoklis.csproj", "{99D9943F-99F9-4FCF-A058-B194E0BFA7AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D9943F-99F9-4FCF-A058-B194E0BFA7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D9943F-99F9-4FCF-A058-B194E0BFA7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D9943F-99F9-4FCF-A058-B194E0BFA7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D9943F-99F9-4FCF-A058-B194E0BFA7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE2A6E0E-7B95-458D-82AC-8A084ECDBE57}
+	EndGlobalSection
+EndGlobal
