@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pirmasV", "pirmasV\pirmasV.csproj", "{DB9D3F29-1E05-481D-994B-3FD83C4345B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9D3F29-1E05-481D-994B-3FD83C4345B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9D3F29-1E05-481D-994B-3FD83C4345B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9D3F29-1E05-481D-994B-3FD83C4345B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9D3F29-1E05-481D-994B-3FD83C4345B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D8DBFD-B259-4CDA-9508-CBAB4025EBF0}
+	EndGlobalSection
+EndGlobal
