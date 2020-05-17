@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace piramide
+namespace TrianglesA
 {
     internal class Program
     {
