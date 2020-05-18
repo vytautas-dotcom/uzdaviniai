@@ -15,8 +15,21 @@ namespace Klausimas
             //viktorina.Testas();
             #endregion
 
-            Menesiai menesiai = new Menesiai();
-            menesiai.Rasti();
+            #region Menesiai
+            //Menesiai menesiai = new Menesiai();
+            //menesiai.Rasti();
+            #endregion
+
+
+            Person person = new Person() { Vardas = "Tom", Pavarde = "Mot" };
+            Person person1 = new Person() { Vardas = "Bob", Pavarde = "Bbo" };
+
+            Knyga knyga = new Knyga();
+            knyga.Irasas();
+            //knyga.Paieska();
+            knyga.Trynimas();
+
+
 
             Console.ReadKey();
 
