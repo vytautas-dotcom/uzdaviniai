@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace pirmasV
 {
-    class JuodaKava : Kava
+    abstract class Kava
     {
-        public int pienasJk = 0;
-        public int vanduoJk = -200;
-        public int pupelesJk = -30;
     }
 }

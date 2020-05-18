@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{88EC24E4-BDE1-4419-83C9-1E4897D250FF}</ProjectGuid>
+    <ProjectGuid>{B31A1DB1-2D24-40E7-8F47-5F4B905524D6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>pirmasV</RootNamespace>
     <AssemblyName>pirmasV</AssemblyName>
@@ -43,12 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aparatas.cs" />
-    <Compile Include="Ekranas.cs" />
-    <Compile Include="Espresso.cs" />
-    <Compile Include="JuodaKava.cs" />
-    <Compile Include="Kava.cs" />
-    <Compile Include="Latte.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

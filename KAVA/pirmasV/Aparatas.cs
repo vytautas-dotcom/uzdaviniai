@@ -18,6 +18,9 @@ namespace pirmasV
 
         public void Uzsakyti()
         {
+            JuodaKava juodaKava = new JuodaKava();
+            Latte latte = new Latte();
+            Espresso espresso = new Espresso();
             if (count == 10)
                 Console.WriteLine("Reikia valyti aparata");
             else
@@ -27,6 +30,27 @@ namespace pirmasV
                     "2. Latte\n" +
                     "3. Espresso");
                 pasirinkimas = Convert.ToInt32(Console.ReadLine());
+                if(pasirinkimas == 1)
+                {
+                    pienas += juodaKava.pienasJk;
+                    vanduo += juodaKava.vanduoJk;
+                    pupeles += juodaKava.pupelesJk;
+                    count++;
+                }
+                else if(pasirinkimas == 2)
+                {
+                    pienas += latte.pienasLa;
+                    vanduo += latte.vanduoLa;
+                    pupeles += latte.pupelesLa;
+                    count++;
+                }
+                else if(pasirinkimas == 3)
+                {
+                    pienas += espresso.pienasEs;
+                    vanduo += espresso.vanduoEs;
+                    pupeles += espresso.pupelesEs;
+                    count++;
+                }
             }
         }
 
@@ -73,7 +97,7 @@ namespace pirmasV
   
             }
             else
-                Console.WriteLine("Dar galima pasidaryti po puodeli visu kovos rusiu! :)");
+                Console.WriteLine("Dar galima pasidaryti bent po puodeli visu kovos rusiu! :)");
         }
         public void Statusas()
         {

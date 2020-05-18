@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace pirmasV
 {
-    class Espresso
+    class Espresso : Kava
     {
         public int pienasEs = 0;
         public int vanduoEs = -100;
