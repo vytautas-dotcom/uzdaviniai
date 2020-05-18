@@ -18,7 +18,11 @@ namespace pirmasV
             this.pavarde = pavarde;
             this.id = id;
         }
-        
+
+        public int CompareTo(Employee other)
+        {
+            return this.vardas.CompareTo(other.vardas);
+        }
 
         public abstract void DoWork();
 
